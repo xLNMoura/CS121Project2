@@ -1,4 +1,4 @@
-# CS121Projects1
+# CS121Project1
 
 In this project, I had to download, extract, and open the project code in jGrasp. Then, make some
 modifications to the code, compile and run the program. I am able to see if the program works by
